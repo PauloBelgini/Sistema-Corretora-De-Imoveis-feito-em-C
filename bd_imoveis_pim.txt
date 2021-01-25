@@ -1,0 +1,6 @@
+0 ZERO 000000000 zero@email 00000000000 vazio 0,000000 vazio
+1 pedrao loco pedroloco@gmail 1231412312 duraemole 1000000,000000 vender
+2 Paneta 41252391231 panetaduro@gmail.com 11891923192 200m2 10,000000 vender
+4 silva 4812341238 silvapane@gmail.com 11928219281 300m2 50,000000 Alugar
+5 sirlei 41724128748 sirleidora@gmail.com 11928129382 600m2 200,000000 alugar
+6 Carlos 458479888 carlospedroso@outlook.com 11943703236 apartamento,+cep:13216647 225000,000000 vender
